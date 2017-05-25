@@ -70,4 +70,4 @@ return
 Button关于:
 Gui +OwnDialogs
 MsgBox, , 关于, % "感谢 @racaljk 的开源项目为此程序提供续命源。`n本程序采用 GPLv3 开源协议。`n`nCreated by @Lyraa from NUAA"
-return
+return 
